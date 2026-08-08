@@ -1,0 +1,6 @@
+{
+  "name": "የኢትዮጵያ ዘመን አቆጣጠር — Ethiopian Calendar Encyclopedia",
+  "description": "Comprehensive Ethiopian Calendar, Bahre Hasab, Ge'ez Chronology, Media Library & Research Reference App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
